@@ -1,4 +1,6 @@
 # Chess (Capture‑the‑King) — C++ Console Game
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 A simplified two‑player chess game implemented in modern C++.
 Players enter moves using algebraic notation (e.g., `e2 e4`).
@@ -32,3 +34,5 @@ The game ends when one king is captured.
 ```bash
 make
 ./chess
+
+
